@@ -1,3 +1,8 @@
+## Ecoleta FrontEnd
+
+Aplicação para gerenciar fluxo de coletas e descartes ecológicos. Desenvolvido na Next Level Week 1.0 utilizando React no FrontEnd.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
