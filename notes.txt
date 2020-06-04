@@ -20,3 +20,6 @@ npm install leaflet
 // integra o leaflet no react
 npm install react-leaflet
 npm install @types/react-leaflet -D
+
+// biblioteca que permite realizar requisições de apis
+npm install axios
