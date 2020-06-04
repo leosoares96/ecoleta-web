@@ -13,3 +13,10 @@ npm install react-icons
 // instação do router-dom para aplicar as rotas
 npm install react-router-dom
 npm install @types/react-router-dom -D
+
+// intalação do mapa leaflet
+npm install leaflet
+
+// integra o leaflet no react
+npm install react-leaflet
+npm install @types/react-leaflet -D
