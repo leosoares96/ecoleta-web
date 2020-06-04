@@ -1,0 +1,9 @@
+
+// criação da aplicação em react
+npm create-react-app web
+
+// executa aplicação
+npm start
+
+// intalação do pacote de icones
+npm install react-icons
