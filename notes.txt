@@ -1,4 +1,6 @@
 
+// JSX: sintaxe de XML dentro do JavaScript
+
 // criação da aplicação em react
 npm create-react-app web
 
@@ -7,3 +9,7 @@ npm start
 
 // intalação do pacote de icones
 npm install react-icons
+
+// instação do router-dom para aplicar as rotas
+npm install react-router-dom
+npm install @types/react-router-dom -D
