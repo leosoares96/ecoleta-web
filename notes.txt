@@ -23,3 +23,7 @@ npm install @types/react-leaflet -D
 
 // biblioteca que permite realizar requisições de apis
 npm install axios
+
+// import de imagens
+npm install react-dropzone
+npm install @types/react-dropzone
